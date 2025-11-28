@@ -5,26 +5,11 @@
 
 
 ## 🔹 Features
-
 - 📦 Block creation
-- ✅ Block validation
 
 
 ## 🛠 Requirements
-
-- 🌀 Clojure 1.12
 - ☕ Java 21
-
-
-## 🚀 Installation
-
-Clone the repository and run the application:
-
-```bash
-git clone <repository-url>
-cd clj-blockchain
-./gradlew run
-```
 
 
 ## 📖 Usage

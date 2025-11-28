@@ -28,6 +28,6 @@ clojure {
 }
 
 application {
-    mainClass = 'training.blockchain'
+    mainClass = 'demo'
 }
 
